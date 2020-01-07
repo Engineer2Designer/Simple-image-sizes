@@ -1,0 +1,291 @@
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-20 15:24+0100\n"
+"PO-Revision-Date: 2020-01-07 09:34+0800\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: E2D <engineer2designer@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: templates/options-media.php:10
+msgid "Select which thumbnails you want to rebuild:"
+msgstr "選擇要重建的縮略圖："
+
+#: templates/options-media.php:17 templates/options-media.php:73
+msgid "Size name"
+msgstr "尺寸名稱"
+
+#: templates/options-media.php:18 templates/options-media.php:74
+msgid "Width"
+msgstr "寬度"
+
+#: templates/options-media.php:19 templates/options-media.php:75
+msgid "Height"
+msgstr "高度"
+
+#: templates/options-media.php:20 templates/options-media.php:76
+msgid "Crop ?"
+msgstr "裁剪 ?"
+
+#: templates/options-media.php:42 classes/admin/main.php:183
+msgid "Yes"
+msgstr "Yes"
+
+#: templates/options-media.php:42 classes/admin/main.php:182
+msgid "No"
+msgstr "No"
+
+#: templates/options-media.php:81
+msgid "Select which post type source thumbnails you want to rebuild:"
+msgstr "選擇要重建的發佈類型源縮略圖："
+
+#: templates/options-media.php:88 templates/options-media.php:119
+msgid "Post type"
+msgstr "文章類型"
+
+#: templates/options-media.php:138
+msgid "End time calculated :"
+msgstr "計算的結束時間 ："
+
+#: templates/options-media.php:139
+msgid "Calculating..."
+msgstr "計算..."
+
+#: templates/options-media.php:150
+msgid "Last image:"
+msgstr "最後一張圖像："
+
+#: templates/options-media.php:152 classes/admin/post.php:250
+#: classes/admin/post.php:258
+msgid "Regenerate Thumbnails"
+msgstr "重新產生縮圖"
+
+#: classes/admin/post.php:64 classes/admin/media.php:474
+msgid "Trying to cheat ?"
+msgstr ""
+
+#: classes/admin/post.php:224
+msgid "Regenerate thumbnails"
+msgstr "重新生成縮略圖"
+
+#: classes/admin/main.php:44
+msgid "Reading attachments..."
+msgstr "正在閱讀附件..."
+
+#: classes/admin/main.php:45 classes/admin/media.php:171
+msgid "Maximum width"
+msgstr "最大寬度"
+
+#: classes/admin/main.php:46 classes/admin/media.php:178
+msgid "Maximum height"
+msgstr "高度最大值"
+
+#: classes/admin/main.php:47
+msgid "Crop"
+msgstr "裁剪"
+
+#: classes/admin/main.php:48
+msgid "yes"
+msgstr "yes"
+
+#: classes/admin/main.php:49
+msgid "no"
+msgstr "no"
+
+#: classes/admin/main.php:50 classes/admin/media.php:208
+msgid "Show in post insertion ?"
+msgstr "在插入後顯示？"
+
+#: classes/admin/main.php:51
+msgid " of "
+msgstr " 的 "
+
+#: classes/admin/main.php:52
+msgid " or "
+msgstr " 或 "
+
+#: classes/admin/main.php:53
+msgid " before the end."
+msgstr "  結束之前。"
+
+#: classes/admin/main.php:54 classes/admin/media.php:210
+msgid "Delete"
+msgstr "删除"
+
+#: classes/admin/main.php:55
+msgid "No media in your site to regenerate !"
+msgstr "您的網站中沒有媒體可以再生！"
+
+#: classes/admin/main.php:56
+msgid "Regenerating "
+msgstr "再生 "
+
+#: classes/admin/main.php:57
+msgid "Regenerate "
+msgstr "重新製作 "
+
+#: classes/admin/main.php:58
+msgid "Validate image size name"
+msgstr "驗證圖像大小名稱"
+
+#: classes/admin/main.php:59
+msgid "Done."
+msgstr "完成."
+
+#: classes/admin/main.php:60
+msgid "Size"
+msgstr "尺寸"
+
+#: classes/admin/main.php:61
+msgid ""
+"Don't use the basic WordPress thumbnail size name, use the form above to "
+"edit them"
+msgstr "不要使用基本的 WordPress 縮略圖大小名稱，請使用上面的表單來編輯它們"
+
+#: classes/admin/main.php:62
+msgid "This size is already registered, edit it instead of recreating it."
+msgstr "此大小已註冊，請對其進行編輯，而不是重新創建它。"
+
+#: classes/admin/main.php:63
+msgid "Do you really want to delete these size ?"
+msgstr "是否確實要刪除這些大小？"
+
+#: classes/admin/main.php:64 classes/admin/media.php:211
+msgid "Update"
+msgstr "更新"
+
+#: classes/admin/main.php:65
+msgid "Error requesting page"
+msgstr "請求頁錯誤"
+
+#: classes/admin/main.php:66
+msgid "images have been regenerated !"
+msgstr "圖像已經再生！"
+
+#: classes/admin/main.php:67
+msgid "Validate"
+msgstr "驗證"
+
+#: classes/admin/main.php:68
+msgid " started at"
+msgstr " 開始在"
+
+#: classes/admin/main.php:69 classes/admin/media.php:185
+msgid "Public name"
+msgstr "公共名稱"
+
+#: classes/admin/main.php:70
+msgid " finished at :"
+msgstr " 完成于 ："
+
+#: classes/admin/main.php:71
+msgid ""
+"Error during the php treatment, be sure to not have php errors in your page"
+msgstr "在 php 處理期間出錯，請確保頁面中沒有 php 錯誤"
+
+#: classes/admin/main.php:72
+msgid "All the sizes you have modified are not saved, continue anyway ?"
+msgstr "您修改的所有大小不會保存，是否繼續？"
+
+#: classes/admin/main.php:73
+msgid "This image has been regenerated in %s seconds"
+msgstr "此圖像已在 %s 秒內重新生成"
+
+#: classes/admin/main.php:96
+msgid "No id given in POST datas."
+msgstr "開站即不表示 ID。"
+
+#: classes/admin/main.php:109
+msgid ""
+"This file already exists in this size and have not been regenerated :<br/><a "
+"target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+msgstr ""
+"此檔已存在於此大小，尚未重新生成 ：<br/><a target=\"_blank\" href=\"%1$s\" >"
+"%2$s</a>"
+
+#: classes/admin/main.php:116
+msgid ""
+"This file does not exists and have not been regenerated :<br/><a target="
+"\"_blank\" href=\"%1$s\" >%2$s</a>"
+msgstr ""
+"此檔不存在，尚未重新生成 ：<br/><a target=\"_blank\" href=\"%1$s\" >%2$s</a>"
+
+#: classes/admin/main.php:167
+msgid "Left"
+msgstr "左"
+
+#: classes/admin/main.php:168
+msgid "Center"
+msgstr "中央"
+
+#: classes/admin/main.php:169
+msgid "Right"
+msgstr "右"
+
+#: classes/admin/main.php:173
+msgid "top"
+msgstr "頂部"
+
+#: classes/admin/main.php:174
+msgid "center"
+msgstr "置中"
+
+#: classes/admin/main.php:175
+msgid "bottom"
+msgstr "下"
+
+#: classes/admin/media.php:67
+msgid "Settings"
+msgstr "設定"
+
+#: classes/admin/media.php:107
+msgid "%s size"
+msgstr "%s 大小"
+
+#: classes/admin/media.php:117
+msgid "Add a new size"
+msgstr "添加新大小"
+
+#: classes/admin/media.php:123
+msgid "Get php for theme"
+msgstr "獲取 php 主題"
+
+#: classes/admin/media.php:129
+msgid "Thumbnail regeneration"
+msgstr "縮略圖生成"
+
+#: classes/admin/media.php:192
+msgid "Cropping"
+msgstr "裁剪"
+
+#: classes/admin/media.php:226
+msgid "Add a new size of thumbnail"
+msgstr "添加新大小的縮略圖"
+
+#: classes/admin/media.php:239
+msgid "Get the PHP for the theme"
+msgstr "獲取主題的 PHP"
+
+#: classes/admin/media.php:240
+msgid ""
+"Copy and paste the code below into your Wordpress theme function file if you "
+"wanted to save them and deactivate the plugin."
+msgstr ""
+"如果要保存以下代碼並停用外掛程式，請將以下代碼複製並粘貼到 Wordpress 主題函數"
+"檔中。"
+
+#: classes/admin/media.php:256
+msgid "Admin option-media template missing"
+msgstr "缺少管理選項-媒體範本"
+
+#: classes/admin/media.php:521
+msgid "Regeneration ended"
+msgstr "再生結束"
